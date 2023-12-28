@@ -39,9 +39,9 @@
   <br/><br/><br/><br/>
 </div>
 
-<div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjun516&langs_count=8)](https://github.com/sjun516/github-readme-stats)
-</div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjun516&langs_count=8)](https://github.com/sjun516/github-readme-stats)
+
 <!--
 **sjun516/sjun516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
