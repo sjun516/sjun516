@@ -1,15 +1,17 @@
 <div align="center">
   <!-- 이미지는 SVG로 변경 -->
   <img src="https://capsule-render.vercel.app/api?type=waving&text=Welcome!&desc=I'm%20SangJun👋&fontSize=70&color=auto&height=250&section=header&fontAlignY=40&fontAlign=50&descAlignY=55&descAlign=60" alt="header" />
+</div>
 
-
- 
-  ### Introduction :raised_hands:
+<div align="center"> 
+  <h3>Introduction :raised_hands: </h3> 
   안녕하세요! 😎
   <br/>
   AI와 백엔드에 관심이 많은 개발자입니다!
   <br/><br/>
+</div>
 
+<div align="center">
   ### Skills 🛠️
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/> 
   <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
@@ -18,20 +20,26 @@
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
   <br/><br/>
+</div>
 
+<div align="center">
   ### Languages 💡
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
   <br/><br/>
+</div>
 
+<div align="center">
   ### IDE 🔲
   <img src="https://img.shields.io/badge/VS-5C2D91?style=flat&logo=visualstudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white"/>
   <br/><br/><br/><br/>
+</div>
 
+<div align="center">
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjun516&langs_count=8)](https://github.com/sjun516/github-readme-stats)
 </div>
 <!--
