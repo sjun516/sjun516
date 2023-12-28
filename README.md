@@ -4,7 +4,7 @@
 </div>
 
 <div align="center"> 
-  <h3>Introduction :raised_hands: </h3> 
+  <h3>Introduction ✋ </h3> 
   안녕하세요! 😎
   <br/>
   AI와 백엔드에 관심이 많은 개발자입니다!
