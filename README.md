@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  ### Skills 🛠️
+  <h3>Skills 🛠️</h3> 
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/> 
   <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
   <br/>
@@ -23,7 +23,7 @@
 </div>
 
 <div align="center">
-  ### Languages 💡
+  <h3>Languages 💡</h3> 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
@@ -32,7 +32,7 @@
 </div>
 
 <div align="center">
-  ### IDE 🔲
+  <h3>IDE 🔲</h3> 
   <img src="https://img.shields.io/badge/VS-5C2D91?style=flat&logo=visualstudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white"/>
