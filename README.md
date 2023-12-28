@@ -1,4 +1,4 @@
-
+<div align="center">
   <!-- 이미지는 SVG로 변경 -->
   <img src="https://capsule-render.vercel.app/api?type=waving&text=Welcome!&desc=I'm%20SangJun👋&fontSize=70&color=auto&height=250&section=header&fontAlignY=40&fontAlign=50&descAlignY=55&descAlign=60" alt="header" />
 
@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white"/>
   <br/><br/><br/><br/>
-
+</div>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjun516&langs_count=8)](https://github.com/sjun516/github-readme-stats)
 
 <!--
