@@ -37,9 +37,7 @@
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white"/>
   <br/><br/><br/><br/>
-</div>
 
-<div align="center">
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjun516&langs_count=8)](https://github.com/sjun516/github-readme-stats)
 </div>
 <!--
