@@ -1,8 +1,8 @@
-
+<div align="center">
  ![header](https://capsule-render.vercel.app/api?type=waving&text=Welcome!&desc=I'm%20SangJun👋&fontSize=70&color=auto&height=250&section=header&fontAlignY=40&fontAlign=50&descAlignY=55&descAlign=60)
   <br/><br/>
-
-  ### Introduction :raised_hands:
+ 
+ ### Introduction :raised_hands:
   안녕하세요! 😎
   <br/>
   AI와 백엔드에 관심이 많은 개발자입니다!
@@ -31,7 +31,7 @@
   <br/><br/><br/><br/>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjun516&langs_count=8)](https://github.com/sjun516/github-readme-stats)
-
+</div>
 <!--
 **sjun516/sjun516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
