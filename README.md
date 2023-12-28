@@ -4,7 +4,7 @@
 
 
  
- ### Introduction :raised_hands:
+### Introduction :raised_hands:
   안녕하세요! 😎
   <br/>
   AI와 백엔드에 관심이 많은 개발자입니다!
