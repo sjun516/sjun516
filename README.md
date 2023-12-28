@@ -4,7 +4,7 @@
 </div>
 
 <div align="center"> 
-  <h3>Introduction ✋ </h3> 
+  <h3>Introduction ✋</h3> 
   안녕하세요! 😎
   <br/>
   AI와 백엔드에 관심이 많은 개발자입니다!
@@ -31,8 +31,6 @@
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white"/>
   <br/><br/><br/><br/>
-
-
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjun516&langs_count=8)](https://github.com/sjun516/github-readme-stats)
 </div>
