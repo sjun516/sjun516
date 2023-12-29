@@ -32,7 +32,7 @@
   <h3>IDE 🔲</h3> 
   <img src="https://img.shields.io/badge/VS-5C2D91?style=flat&logo=visualstudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellij&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse-2C2255.svg?&style=flat&logo=eclipse&logoColor=white">
   <br/><br/><br/><br/>
 
