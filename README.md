@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
   <br/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
   <br/><br/>
 
   <h3>Languages 💡</h3> 
