@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
   <br/>
-  <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white">
   <br/><br/>
 
   <h3>Languages 💡</h3> 
@@ -32,7 +32,7 @@
   <h3>IDE 🔲</h3> 
   <img src="https://img.shields.io/badge/VS-5C2D91?style=flat&logo=visualstudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellij&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=flat&logo=Eclipse%20IDE&logoColor=white">
   <br/><br/><br/><br/>
 
