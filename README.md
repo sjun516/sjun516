@@ -39,11 +39,8 @@
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse-2C2255.svg?&style=flat&logo=eclipse&logoColor=white">
   <br/><br/><br/><br/>
-</div>
-
-<div align="center"> 
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjun516&langs_count=8)](https://github.com/sjun516/github-readme-stats)
+  <a href="https://github.com/sjun516"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjun516&layout=compact&theme=nord&hide_border=true" /></a>
 </div>
 <!--
 **sjun516/sjun516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
