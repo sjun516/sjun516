@@ -5,11 +5,6 @@
 
 <div align="center"> 
 
-  <br>t2.small 1.83766 sec<br>
-      t3.small 1.035504 sec<br>
-      t3a.small 1.784046 sec<br>
-      t4g.small 0.885204 sec<br>
-      
   <h3>Introduction ✋</h3>
   안녕하세요! 😎
   <br/>
