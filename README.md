@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
   <br/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
   <br/><br/>
 
   <h3>Languages 💡</h3> 
@@ -27,6 +28,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
   <br/><br/>
 
   <h3>IDE 🔲</h3> 
