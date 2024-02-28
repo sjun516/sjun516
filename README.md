@@ -8,7 +8,7 @@
   <h3>Introduction ✋</h3>
   안녕하세요! 😎
   <br/>
-  끊임없이 도전하는 개발자 이상준입니다!<br/>
+  끊임없이 도전하는 엔지니어 이상준입니다!<br/>
   <a href="https://drive.google.com/file/d/1Tz8rYtZuR3QWLhfufaQfuGmMWqZMtqpy/view?usp=drive_link">포트폴리오</a>
   <br/><br/>
 
